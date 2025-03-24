@@ -13,7 +13,7 @@ The aim of this project is to predict who will win basketball games in the NBA. 
 
 ## Code
 
-You can find the code for this project [here]()
+You can find the code for this project [here](https://github.com/krzxro/nba-game-predictor/blob/main/game-predictor.ipynb)
 
 File overview:
 
