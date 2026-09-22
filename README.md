@@ -53,4 +53,3 @@ Download the dataset from Basketball Reference.
 * Csv file of box scores [here](https://drive.google.com/uc?export=download&id=1YyNpERG0jqPlpxZvvELaNcMHTiKVpfWe).
 
 
-This project takes inspiration from https://www.youtube.com/watch?v=egTylm6C2is&t=545s
